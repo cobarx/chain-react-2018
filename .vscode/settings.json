@@ -1,2 +1,4 @@
 {
+    "appcenter.demoAppGitRepo": "git@github.com:pniko/chain-react-2018",
+    "appcenter.api.configurebranchandstartnewbuild": true
 }
